@@ -47,7 +47,7 @@ struct ContentView: View {
                     .foregroundColor(Color.white)
                     .padding()
                     .background(Color.blue)
-                    .cornerRadius(20)
+                    .cornerRadius(22)
             }
         Text("BMI: \(bmi)")
                 
